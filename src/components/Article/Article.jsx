@@ -24,7 +24,7 @@ const Article = () => {
             );
           })}
 
-        <h1>Written by :-- Shristi Jainer</h1>
+        <h2>Written by :-- Shristi Jainer</h2>
       </div>
     </>
   );
