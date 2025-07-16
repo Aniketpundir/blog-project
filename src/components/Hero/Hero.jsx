@@ -13,7 +13,7 @@ const Hero = () => {
           </div>
           <div className="hero-text-section">
             <div className="hero-text">
-              <h1>I'm Shristi Jainer <br /> I am an Article w riter</h1>
+              <h1>I'm Shristi Jainer <br /> I'm a Writer & a young Researcher.</h1>
             </div>
           </div>
         </div>

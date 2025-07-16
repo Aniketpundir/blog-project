@@ -59,21 +59,21 @@ const skillsName = [
 const education = [
   {
     id: 1,
-    name: "B-Tech (Pursuing)",
-    Batch: "2022 - 2026",
-    college: "college of engineering roorkee (COER)",
+    name: "12th",
+    Batch: "To be Completed in 2026",
+    college: "Delhi Public School, Ranipur , Haridwar",
   },
   {
     id: 2,
-    name: "12th",
-    Batch: "Complete in 2021",
-    college: "Mahamana Malviya Inter College (Muzaffarnagar)",
+    name: "High School Diploma",
+    Batch: "Completed in 2025",
+    college: "Citizens High School, Florida ",
   },
   {
     id: 3,
     name: "10th",
-    Batch: "Complete in 2019",
-    college: "Sunlike High School (Muzaffarnagar)",
+    Batch: "Complete in 2024",
+    college: "Delhi Public School, Ranipur , Haridwar",
   },
 ];
 const Skills = () => {
